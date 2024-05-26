@@ -13,7 +13,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="casual"
-        android:text="Good Afternoon Puchu"
+        android:text="Lets go Android"
         android:textColor="#FF007B"
         android:textSize="34sp"
         android:textStyle="bold"
